@@ -1,0 +1,17 @@
+com/backbase/test/TestBase$BROWSERS.class
+com/backbase/test/ComputerDetailTest.class
+com/backbase/pageObject/BasePage.class
+com/backbase/pageObject/HomePage.class
+com/backbase/test/EditOrDeleteComputerTest.class
+com/backbase/test/TestBase$OS.class
+com/backbase/utilities/CaptureScreenShotHandler.class
+com/backbase/businessHandler/HomeBH.class
+com/backbase/dataReader/JsonClass.class
+com/backbase/businessHandler/ComputerDetailBH.class
+com/backbase/test/HomeTest.class
+com/backbase/pageObject/EditOrDeleteComputerPage.class
+com/backbase/utilities/KeysGenerators.class
+com/backbase/businessHandler/EditOrDeleteComputerBH.class
+com/backbase/utilities/Log.class
+com/backbase/test/TestBase.class
+com/backbase/pageObject/ComputerDetailPage.class
