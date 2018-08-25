@@ -3,7 +3,7 @@
 <suite name="Suite">
     <test name="RegressionTest" parallel="false" thread-count="3">
         <classes>
-        	<!-- These tests are meant for parallel execution -->
+        	<!-- These tests are meant for parallel or single execution -->
         	<class name="com.backbase.test.ComputerDetailTest" />
             <class name="com.backbase.test.HomeTest" />
             

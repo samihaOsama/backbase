@@ -12,7 +12,6 @@ import org.json.simple.parser.ParseException;
 /**
  * Json class for reading a json file and sending properties to test cases
  * 
- * @author samihaosama
  *
  */
 public class JsonClass {
